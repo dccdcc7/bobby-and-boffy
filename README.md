@@ -1,3 +1,4 @@
+### The following parts are the basic use of the yolov5 net
 ## YOLOV5：You Only Look Once目标检测模型在pytorch当中的实现（edition v5.0 in Ultralytics）
 ---
 
@@ -156,3 +157,8 @@ https://github.com/qqwweee/keras-yolo3/
 https://github.com/Cartucho/mAP  
 https://github.com/Ma-Dan/keras-yolo4  
 https://github.com/ultralytics/yolov5   
+
+
+######————————————————————————————————————————————————######
+## here is the use of visualized yolov5 net,which makes the identification of bobby and boffy easy
+U just need to open the file 
