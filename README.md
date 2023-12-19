@@ -73,3 +73,5 @@ https://github.com/ultralytics/yolov5
 ######————————————————————————————————————————————————######
 ## here is the use of visualized yolov5 net,which makes the identification of bobby and boffy easy
 U just need to open the file easy_get and u can choose the image or video that you want to identify
+
+when it comes to the train of the net, you can follow the Chinese instruction above.
