@@ -1,0 +1,11 @@
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/2_1.jpg 581,273,1032,990,0
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/2_10.jpg 444,149,789,699,0
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/2_2.jpg 500,308,951,1025,0
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/2_9.jpg 286,275,628,817,0
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/3_1.jpg 129,125,736,1111,0
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/3_10.jpg 79,324,907,1672,0
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/3_2.jpg 115,349,725,1342,0
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/4_1.jpg 82,174,1072,1129,1
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/5_10.jpg 99,433,911,681,1
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/5_2.jpg 155,383,957,628,1
+F:\pycharmproject\yolov5\VOCdevkit/VOC2007/JPEGImages/5_3.jpg 90,412,905,661,1
